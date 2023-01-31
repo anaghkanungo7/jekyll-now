@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hey! I'm Anagh Kanungo, a computer scientist at NYU. This blog is for writing down thoughts and opinions that I have about the world. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ak8172@nyu.edu](mailto:ak8172@nyu.edu)
